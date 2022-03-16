@@ -26,5 +26,4 @@ Contact me by:
 - Email: [umair@tesla.com.ai](mailto:umair@tesla.com.ai)
 - Github: [@uakbr](https://github.com/uakbr)
 - [Linkedin](https://www.linkedin.com/in/umair-akbar)
-- Blog: [hakk.gg](https://hakk.gg)
 
