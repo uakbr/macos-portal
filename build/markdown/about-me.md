@@ -1,5 +1,7 @@
 # About Me
 
+Psssst. Hey you. Try changing the brightness, or playing some music, or enabling night mode. The access menu is on the top right. :) oh, and also, the VSCode app works, along with all of the other dock items, just like a real mac. :)
+
 ## Biography
 
 Hi 👋 I'm Umair. My initials are USA.
